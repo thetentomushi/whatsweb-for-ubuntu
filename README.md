@@ -1,1 +1,1 @@
-# whatsweb-for-ubuntu
+# Whatsweb for Ubuntu
